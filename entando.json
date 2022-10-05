@@ -1,0 +1,22 @@
+{
+    "microservices": [],
+    "microfrontends": [
+        {
+            "name": "starter-mfe",
+            "customElement": "starter-mfe",
+            "stack": "react",
+            "type": "widget",
+            "group": "free",
+            "publicFolder": "public",
+            "titles": {
+                "en": "starter-mfe",
+                "it": "starter-mfe"
+            }
+        }
+    ],
+    "svc": [],
+    "name": "elevance-bundle",
+    "version": "0.0.1",
+    "description": "elevance-bundle description",
+    "type": "bundle"
+}
